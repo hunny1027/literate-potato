@@ -1,4 +1,4 @@
-# literate-potato
+
 
 #Intro
 
@@ -8,6 +8,6 @@
 
 
 ###Context
--reasoning
--math
--english
+_reasoning
+_math
+_english
